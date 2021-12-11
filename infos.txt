@@ -1,4 +1,4 @@
 id: 663397729967407105
-token: NjYzMzk3NzI5OTY3NDA3MTA1.XhIOwg.gSs3Qo3fUUmAwBZBExSzWtzwKvg
-lien:  https://discordapp.com/oauth2/authorize?client_id=663397729967407105&scope=bot&permissions=8
+token: "your token"
+
 
